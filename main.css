@@ -1,0 +1,161 @@
+
+body{
+    font-family: sans-serif;
+}
+
+.container{
+    margin-left: 3px;
+} 
+
+h1{
+    color:#fff;
+    text-align: left;
+}
+
+ul li a:hover{
+	background-color: #fff;
+	color:orangered;
+}
+.sofa{
+    min-height: auto;
+    margin-right:5px;
+    padding: 0px;
+    margin-top:12px;
+    margin-left: 5px;
+}
+ ul{
+    list-style: none;
+    line-height: 20px;
+} 
+
+.text{
+    margin-left: 500px;
+    color:#000;
+    font-weight: 700;
+    padding: 10px;
+}
+.sofas{
+    padding: 30px;
+    margin-left:1px;
+  }
+
+.cont{
+    max-width: 100%;
+    max-height:100%;
+    background-color:white;
+    font-size: 25px;
+    margin:50px;
+    padding: 15px;
+}
+h2{
+    color: black;
+    font-weight: 600;
+    
+}
+ h3{
+    padding-bottom:10px;
+    font-size:30px;
+    font-weight: 600;
+    color:#187b91;
+  } 
+  label{
+    display:block;
+    color:#888888;
+    font-size:14px;
+    margin-bottom:5px;
+  }
+   .login-form{
+     background-color:  #fff;
+     margin: 2px;
+     margin-left: 30px;
+     ;
+  } 
+  input{
+    border:1px solid #ccc;
+    width:500px;
+    padding:10px;
+    font-size:15px;
+    margin-bottom:15px;
+    background-color: whitesmoke;
+  }
+  input[type=submit]{
+    border:none;
+    width:500px;
+    background:#58afc3;
+    color:#fff;
+    font-size:13px;
+    font-weight:bold;
+    padding-top:15px;
+    padding-bottom:15px;
+  }
+  .contact{
+   text-align: right;
+    position: relative;
+    bottom: 500px;
+    margin-right:510px;
+    font-size: 30px;
+    color:#58afc3;
+    font-weight: 500px;
+  }
+
+  .contacts{
+    text-align: right;
+    position: relative;
+    bottom: 500px;
+    margin-right:400px;
+    font-size: 25px;
+   
+}
+.contss{
+    text-align: right;
+    position: relative;
+    bottom: 490px;
+    margin-right:500px;
+    font-size: 15px;
+    color:#58afc3;
+}
+
+.conts{
+    text-align: right;
+    position: relative;
+    bottom: 490px;
+    margin-right:400px;
+    font-size: 15px;
+} 
+.time{
+    text-align: right;
+    position: relative;
+    bottom: 500px;
+    margin-right:450px;
+    font-size: 15px;
+} 
+.times{
+    text-align: right;
+    position: relative;
+    bottom: 509px;
+    margin-right:480px;
+    font-size: 15px;
+} 
+.Time{
+    text-align: right;
+    position: relative;
+    bottom: 520px;
+    margin-right:450px;
+    font-size: 15px;
+} 
+.google-maps{
+    margin-left: 20px;
+   
+}
+.content{
+    margin-left: 20px;
+    padding: 5px;
+}
+.footer {
+   width: 100%;
+    height: 70%;
+    background-color:#011d30;
+    color: white;
+    text-align: left;
+
+ }
