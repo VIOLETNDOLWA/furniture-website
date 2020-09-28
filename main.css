@@ -17,10 +17,9 @@ ul li a:hover{
 	color:orangered;
 }
 .sofa{
-    min-height: auto;
     padding: 0px;
     margin-top:12px;
-    margin-left: 5px;
+    margin-left: 15px;
 }
  ul{
     list-style: none;
