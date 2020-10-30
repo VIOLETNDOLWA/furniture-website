@@ -4,13 +4,7 @@ body{
 }
 .header{
     width: 100%;
-     /* height: 100vh; */
-    /* background-image: linear-gradient(rgba(182, 201, 211, 0.3),  rgba(1, 12, 17, 0.3)), url(images/image1.png); */ 
-    /* background-repeat: no-repeat;
-    background-size: 100% 100%;
-    position: relative; */
-    /* clip-path: polygon(100% 0%,100% 75%,50% 100%,0 75%,0 0); */
-
+     
 }
 .navbar:before{
     content:"";
@@ -53,10 +47,10 @@ ul li a:hover{
 } 
 
 .text{
-    margin-left: 500px;
-    color:#000;
+    margin-left: 200px;
     font-weight: 700;
     padding: 10px;
+    
 }
 .sofas{
     padding: 30px;
@@ -82,6 +76,7 @@ h2{
     font-size:30px;
     font-weight: 600;
     color:#187b91;
+    
   } 
   label{
     display:block;
